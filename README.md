@@ -50,11 +50,13 @@ A web-based online shop application built with PHP and MySQL. This project allow
 - In your database (`users` table), set the `userType` field to `1` for that user to grant admin privileges.
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/110bba32-80e2-4428-9157-3d91f9ff8ab4)
-![image](https://github.com/user-attachments/assets/6f7e133c-2be0-478b-9d04-685a82f3cd9c)
-![image](https://github.com/user-attachments/assets/2b350cc8-4792-46df-8136-76060838309c)
-![image](https://github.com/user-attachments/assets/6a804e70-7249-41e1-b9e1-30718dd4b9ca)
-![image](https://github.com/user-attachments/assets/577af508-41c9-478a-a202-fb192b60539f)
+- ![image](https://github.com/user-attachments/assets/d12bf291-e75d-4678-a643-3288b3f68079)
+- ![image](https://github.com/user-attachments/assets/110bba32-80e2-4428-9157-3d91f9ff8ab4)
+- ![image](https://github.com/user-attachments/assets/6f7e133c-2be0-478b-9d04-685a82f3cd9c)
+- ![image](https://github.com/user-attachments/assets/6a804e70-7249-41e1-b9e1-30718dd4b9ca)
+- ![image](https://github.com/user-attachments/assets/577af508-41c9-478a-a202-fb192b60539f)
+
+
 
 
 
