@@ -69,5 +69,5 @@ A web-based online shop application built with PHP and MySQL. This project allow
 
 ## Contributors
 - [Sameh](https://github.com/sameh625)
-- [White]((https://github.com/Elabyad247))
+- [White](https://github.com/Elabyad247)
 - [Tarek](https://github.com/Tarek-Mahm0ud)
